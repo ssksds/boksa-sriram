@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth-bisht" alt="parth-bisht" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/parthbi40128754" target="blank"><img src="https://img.shields.io/twitter/follow/parthbi40128754?logo=twitter&style=for-the-badge" alt="parthbi40128754" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SskSds" target="blank"><img src="https://img.shields.io/twitter/follow/parthbi40128754?logo=twitter&style=for-the-badge" alt="parthbi40128754" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif"/>
 - 🔭 I’m currently working on **Restraunt App**
 
@@ -18,17 +18,17 @@
 
 - 👯 I’m looking to collaborate on **amazon**
 
-- 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
+- 📝 I regularly write articles on [https://medium.com/@bsriramsds](https://medium.com/@bsriramsds)
 
 - 💬 Ask me about **Javascript, HTML, DSA etc**
 
-- 📫 How to reach me **bishtparth795@gmail.com**
+- 📫 How to reach me **bsriramsds@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/parthbi40128754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parthbi40128754" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/parth bisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth bisht" height="30" width="40" /></a>
-<a href="https://medium.com/@bishtparth795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bishtparth795" height="30" width="40" /></a>
+<a href="https://twitter.com/SskSds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parthbi40128754" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/boksa-sriram-117179224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth bisht" height="30" width="40" /></a>
+<a href="https://medium.com/@bsriramsds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bishtparth795" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
